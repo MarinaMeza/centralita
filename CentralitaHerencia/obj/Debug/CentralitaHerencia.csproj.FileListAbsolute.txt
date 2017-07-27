@@ -1,0 +1,6 @@
+d:\users\kaiod\documents\visual studio 2012\Projects\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+d:\users\kaiod\documents\visual studio 2012\Projects\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+d:\users\kaiod\documents\visual studio 2012\Projects\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+d:\users\kaiod\documents\visual studio 2012\Projects\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+d:\users\kaiod\documents\visual studio 2012\Projects\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+d:\users\kaiod\documents\visual studio 2012\Projects\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
